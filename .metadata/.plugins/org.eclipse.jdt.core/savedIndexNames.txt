@@ -46,7 +46,6 @@ INDEX VERSION 1.127+/Users/andriantomanga/Desktop/workspace-one/jerytodik/worksp
 2207343719.index
 138093452.index
 3531892659.index
-277627670.index
 1706950458.index
 3131291862.index
 3231880579.index
