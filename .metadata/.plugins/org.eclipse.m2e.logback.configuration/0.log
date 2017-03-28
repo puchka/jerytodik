@@ -437,3 +437,4 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2017-03-28 20:52:56,054 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-03-28 20:59:20,658 [Worker-200] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
 2017-03-28 20:59:44,625 [Worker-203] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:21:41,331 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
