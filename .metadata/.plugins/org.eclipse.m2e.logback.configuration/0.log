@@ -413,3 +413,25 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2017-03-28 19:39:04,219 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-03-28 19:39:04,219 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-03-28 19:39:04,220 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 20:52:41,693 [Worker-197] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 20:52:54,552 [Worker-189] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-28 20:52:54,936 [Worker-189] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 20:52:55,077 [Worker-189] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-28 20:52:55,103 [Worker-189] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 20:52:55,611 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/main/java
+2017-03-28 20:52:55,612 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/main/resources
+2017-03-28 20:52:55,612 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/test/java
+2017-03-28 20:52:55,612 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/test/resources
+2017-03-28 20:52:55,648 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-28 20:52:55,648 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-28 20:52:55,649 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-28 20:52:55,649 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-28 20:52:55,734 [Worker-189] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-03-28 20:52:55,953 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 20:52:55,953 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 20:52:55,956 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 20:52:55,957 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 20:52:56,053 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 20:52:56,054 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 20:52:56,054 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 20:52:56,054 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

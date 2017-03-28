@@ -32,7 +32,8 @@
 
 
 	<properties>
-		<java.version>1.8</java.version>
+		<!-- Probleme de build avec java8 avec travis - voir solution -->
+		<java.version>1.7</java.version>
 		<jerytodik.version>1.0-RELEASE</jerytodik.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.plugin>3.0</maven.compiler.plugin>
