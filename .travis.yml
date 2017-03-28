@@ -1,8 +1,6 @@
-
 language: java
 jdk:
-	- oraclejdk8
+- oraclejdk8
 os:
-	- linux
+- linux
 script: sh build-jerytodik.sh
-
