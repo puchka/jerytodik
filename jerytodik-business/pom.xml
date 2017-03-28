@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>mg.jerytodik</groupId>
 		<artifactId>jerytodik-root</artifactId>
-		<version>${jerytodik.version}</version>
+		<version>1.0-RELEASE</version>
 		<relativePath>../jerytodik-root/pom.xml</relativePath>
 	</parent>
 

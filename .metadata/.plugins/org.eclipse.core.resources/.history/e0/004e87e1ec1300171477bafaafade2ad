@@ -5,13 +5,25 @@
 	<parent>
 		<groupId>mg.jerytodik</groupId>
 		<artifactId>jerytodik-root</artifactId>
-		<version>1.0-RELEASE</version>
+		<version>${jerytodik.version}</version>
 		<relativePath>../jerytodik-root/pom.xml</relativePath>
 	</parent>
 
-	<artifactId>jerytodik-common</artifactId>
+	<artifactId>jerytodik-business</artifactId>
 
 	<dependencies>
+		<dependency>
+			<groupId>org.springframework.data</groupId>
+			<artifactId>spring-data-jpa</artifactId>
+			<version>${spring.data.version}</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-jpamodelgen</artifactId>
+			<version>${hibernate.version}</version>
+		</dependency>
 
 		<dependency>
 			<groupId>org.hibernate</groupId>
@@ -19,12 +31,12 @@
 			<version>${hibernate.version}</version>
 		</dependency>
 
+
 		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-lang3</artifactId>
-			<version>3.5</version>
+			<groupId>postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>${postgresql.driver.version}</version>
 		</dependency>
 
 	</dependencies>
-
 </project>

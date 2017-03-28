@@ -438,3 +438,71 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2017-03-28 20:59:20,658 [Worker-200] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
 2017-03-28 20:59:44,625 [Worker-203] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
 2017-03-28 21:21:41,331 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:26:31,651 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:27:40,399 [Worker-222] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:28:52,556 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:29:37,975 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.jar
+2017-03-28 21:29:38,023 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.jar
+2017-03-28 21:29:38,078 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.pom
+2017-03-28 21:29:38,096 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.pom
+2017-03-28 21:29:38,233 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.pom
+2017-03-28 21:29:38,258 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.pom
+2017-03-28 21:29:38,353 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.pom
+2017-03-28 21:29:38,380 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.pom
+2017-03-28 21:29:38,403 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/6.0_ALPHA/asm-parent-6.0_ALPHA.pom
+2017-03-28 21:29:38,428 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/6.0_ALPHA/asm-parent-6.0_ALPHA.pom
+2017-03-28 21:29:38,456 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.pom
+2017-03-28 21:29:38,481 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.pom
+2017-03-28 21:29:38,507 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.pom
+2017-03-28 21:29:38,525 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.pom
+2017-03-28 21:29:38,543 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.1/plexus-compiler-2.8.1.pom
+2017-03-28 21:29:38,564 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.1/plexus-compiler-2.8.1.pom
+2017-03-28 21:29:38,593 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.pom
+2017-03-28 21:29:38,610 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.pom
+2017-03-28 21:29:38,630 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.pom
+2017-03-28 21:29:38,648 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.pom
+2017-03-28 21:29:38,669 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.1/plexus-compilers-2.8.1.pom
+2017-03-28 21:29:38,688 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.1/plexus-compilers-2.8.1.pom
+2017-03-28 21:29:38,728 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.jar
+2017-03-28 21:29:38,784 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.jar
+2017-03-28 21:29:38,803 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.jar
+2017-03-28 21:29:38,826 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.jar
+2017-03-28 21:29:38,842 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.jar
+2017-03-28 21:29:38,919 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.jar
+2017-03-28 21:29:38,937 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.jar
+2017-03-28 21:29:38,956 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.jar
+2017-03-28 21:29:38,972 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.jar
+2017-03-28 21:29:38,994 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.jar
+2017-03-28 21:29:39,010 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.jar
+2017-03-28 21:29:39,032 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.jar
+2017-03-28 21:29:39,160 [Worker-218] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 21:29:39,292 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:29:39,296 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:29:39,297 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:29:39,297 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:29:46,363 [Worker-222] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-28 21:29:46,430 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:29:46,431 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:29:46,432 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:29:46,432 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:30:01,591 [Worker-222] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-28 21:30:01,881 [Worker-222] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 21:30:01,969 [Worker-222] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-28 21:30:01,981 [Worker-222] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:30:02,319 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/main/java
+2017-03-28 21:30:02,319 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/main/resources
+2017-03-28 21:30:02,319 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/test/java
+2017-03-28 21:30:02,320 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/test/resources
+2017-03-28 21:30:02,348 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-28 21:30:02,348 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-28 21:30:02,349 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-28 21:30:02,349 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-28 21:30:02,409 [Worker-222] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-28 21:30:02,659 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:30:02,660 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:30:02,662 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:30:02,662 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:30:02,776 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:30:02,776 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:30:02,777 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:30:02,777 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
