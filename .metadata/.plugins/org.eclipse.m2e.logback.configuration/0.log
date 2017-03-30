@@ -1,0 +1,1237 @@
+2017-03-27 21:00:08,944 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:00:57,557 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:0.0.1-SNAPSHOT @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-27 21:00:58,253 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-27 21:00:58,255 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-27 21:00:58,256 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-27 21:00:58,256 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-27 21:01:01,435 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-27 21:01:01,453 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:01:01,456 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-27 21:01:01,456 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:01:54,873 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:02:04,374 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:02:54,446 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:03:41,198 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:04:00,196 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:04:16,842 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:05:29,134 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:05:36,660 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:06:17,812 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:06:27,426 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:10:55,449 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:11:14,280 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-27 21:11:14,454 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:11:14,457 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:11:14,460 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:11:14,460 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:12:34,714 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-27 21:12:34,972 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:12:34,976 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:12:34,978 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:12:34,978 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:12:36,389 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:12:36,392 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:12:36,394 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:12:36,394 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:12:58,809 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:13:26,790 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-27 21:13:27,145 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-27 21:13:27,166 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:13:27,300 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-27 21:13:27,301 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-27 21:13:27,305 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-27 21:13:27,305 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-27 21:13:27,470 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-27 21:13:27,625 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:13:27,625 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:13:27,627 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:13:27,628 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:15:59,094 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:16:02,372 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:18:02,379 [Worker-8] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/jerytodik-root/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:804) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:999) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4724) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3522) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2315) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2278) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2193) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3932) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4721) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:997) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:729) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1050) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2017-03-27 21:18:02,508 [Worker-8] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</organization>\n\t\t\t<roles>\n\t\t\t\tdeveloper\n\t\t\t</... @18:6) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</organization>\n\t\t\t<roles>\n\t\t\t\tdeveloper\n\t\t\t</... @18:6) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1121) ~[plexus-utils-3.0.20.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDeveloper(MavenXpp3Reader.java:1551) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2100) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	... 26 common frames omitted
+2017-03-27 21:18:02,517 [Worker-8] ERROR o.e.m.c.internal.embedder.MavenImpl - Could not read parent project
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</organization>\n\t\t\t<roles>\n\t\t\t\tdeveloper\n\t\t\t</... @18:6)  @ line 18, column 6
+ for project  at /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168) ~[maven-core-3.3.3.jar:3.3.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119) ~[maven-core-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolveParentProject(MavenImpl.java:683) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$4.call(MavenImpl.java:709) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$4.call(MavenImpl.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolveParentProject(MavenImpl.java:707) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.getPomMappingMetadataSources(LifecycleMappingFactory.java:834) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.getProjectMetadataSourcesMap(LifecycleMappingFactory.java:276) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.getProjectMetadataSources(LifecycleMappingFactory.java:254) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.calculateEffectiveLifecycleMappingMetadata(LifecycleMappingFactory.java:238) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.lifecyclemapping.LifecycleMappingFactory.calculateLifecycleMapping(LifecycleMappingFactory.java:179) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.setupLifecycleMapping(ProjectRegistryManager.java:593) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:512) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$3.call(ProjectRegistryManager.java:491) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$3.call(ProjectRegistryManager.java:1) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:495) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.1.v20150725-1910.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml: expected START_TAG or END_TAG not TEXT (position: TEXT seen ...</organization>\n\t\t\t<roles>\n\t\t\t\tdeveloper\n\t\t\t</... @18:6)  @ line 18, column 6
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.building.DefaultModelBuilder.readModel(DefaultModelBuilder.java:575) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:269) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161) ~[maven-core-3.3.3.jar:3.3.3]
+	... 40 common frames omitted
+2017-03-27 21:18:02,541 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-27 21:18:31,497 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:18:31,532 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-27 21:18:32,779 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:18:32,781 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:18:32,782 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:18:32,783 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:19:15,534 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:19:22,999 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:19:49,608 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:22:22,327 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:0.0.1-SNAPSHOT @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-27 21:22:22,358 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/main/java
+2017-03-27 21:22:22,358 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/main/resources
+2017-03-27 21:22:22,359 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/test/java
+2017-03-27 21:22:22,359 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/test/resources
+2017-03-27 21:22:22,546 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-27 21:22:22,547 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:22:22,549 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-27 21:22:22,549 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:22:42,932 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:23:26,764 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-27 21:23:26,793 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:23:26,793 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:23:26,795 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:23:26,795 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:23:54,542 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-27 21:23:54,829 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-27 21:23:54,851 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-27 21:23:54,862 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:23:54,996 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/main/java
+2017-03-27 21:23:54,996 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/main/resources
+2017-03-27 21:23:54,999 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/test/java
+2017-03-27 21:23:54,999 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/test/resources
+2017-03-27 21:23:55,028 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-27 21:23:55,028 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-27 21:23:55,029 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-27 21:23:55,029 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-27 21:23:55,100 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-27 21:23:55,237 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:23:55,238 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:23:55,240 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:23:55,240 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:23:55,600 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:23:55,601 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:23:55,602 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:23:55,603 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:33:13,555 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-27 21:33:13,768 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:33:13,771 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:33:13,772 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:33:13,772 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:33:15,014 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:33:15,015 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:33:15,017 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:33:15,017 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:34:39,471 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:34:52,376 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:35:02,646 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-27 21:35:02,754 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:35:02,755 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:35:02,756 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:35:02,756 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:35:28,090 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 21:35:39,474 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-27 21:35:39,618 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:35:39,619 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:35:39,620 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:35:39,621 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:36:29,560 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-27 21:36:29,594 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:36:29,594 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:36:29,595 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:36:29,595 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:36:30,731 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:36:30,731 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:36:30,739 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:36:30,739 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:37:26,432 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:37:26,433 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:37:26,435 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:37:26,435 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:37:27,536 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:37:27,537 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:37:27,538 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:37:27,538 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:37:27,544 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:37:27,545 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:37:27,546 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:37:27,546 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:38:24,219 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-27 21:38:24,277 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:38:24,277 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:38:24,278 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:38:24,279 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:38:25,511 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:38:25,511 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:38:25,512 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:38:25,512 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:38:34,097 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:38:34,098 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:38:34,099 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:38:34,099 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:39:06,614 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:39:06,615 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:39:06,616 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:39:06,616 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:40:39,528 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:40:39,528 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:40:39,531 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:40:39,531 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:41:58,876 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:41:58,877 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:41:58,878 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:41:58,878 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:42:00,975 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:42:00,976 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:42:00,977 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:42:00,977 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:43:24,262 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:43:24,263 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:43:24,264 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:43:24,265 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:43:26,581 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:43:26,582 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:43:26,583 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:43:26,584 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:45:08,950 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:45:08,950 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:45:08,951 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:45:08,952 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:47:41,930 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:47:41,930 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:47:41,931 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:47:41,932 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:50:26,448 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:50:26,450 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:50:26,451 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:50:26,451 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:51:11,453 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:51:11,454 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:51:11,455 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:51:11,455 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:53:04,632 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:53:04,633 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:53:04,634 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:53:04,634 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:53:28,214 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:53:28,214 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:53:28,215 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:53:28,216 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:53:34,987 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:53:34,987 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:53:34,988 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:53:34,989 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:53:55,008 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:53:55,008 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:53:55,009 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:53:55,009 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:53:57,207 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:53:57,207 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:53:57,208 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:53:57,208 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:55:46,852 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:55:46,852 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:55:46,853 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:55:46,854 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:57:14,060 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:57:14,061 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:57:14,061 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:57:14,061 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:58:33,278 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:58:33,278 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:58:33,279 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:58:33,279 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:59:29,865 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:59:29,865 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:59:29,866 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:59:29,866 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:59:49,606 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:59:49,606 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 21:59:49,607 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 21:59:49,607 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:00:01,331 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:00:01,332 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:00:01,333 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:00:01,333 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:00:29,448 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:00:29,449 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:00:29,450 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:00:29,450 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:00:43,695 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:00:43,696 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:00:43,696 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:00:43,697 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:00:50,766 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:00:50,767 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:00:50,768 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:00:50,768 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:03:49,258 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:03:49,258 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:03:49,259 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:03:49,259 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:03:55,272 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:03:55,273 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:03:55,274 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:03:55,275 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:06:19,725 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:06:19,725 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:06:19,726 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:06:19,726 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:06:31,360 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:06:31,360 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:06:31,361 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:06:31,361 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:06:35,883 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:06:35,883 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:06:35,884 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:06:35,884 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:08:10,951 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:08:10,952 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:08:10,953 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:08:10,953 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:35:13,432 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 22:35:28,856 [Worker-65] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-27 22:35:29,180 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-27 22:35:29,268 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-27 22:35:29,282 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 22:35:29,427 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/main/java
+2017-03-27 22:35:29,427 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/main/resources
+2017-03-27 22:35:29,427 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/test/java
+2017-03-27 22:35:29,427 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/test/resources
+2017-03-27 22:35:29,477 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-27 22:35:29,477 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-27 22:35:29,478 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-27 22:35:29,478 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-27 22:35:29,605 [Worker-65] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-27 22:35:29,839 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:35:29,839 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:35:29,843 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:35:29,843 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:35:30,231 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:35:30,231 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:35:30,231 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-27 22:35:30,232 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-27 22:45:21,521 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-27 22:45:38,404 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 19:39:03,202 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 19:39:03,206 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 19:39:03,207 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 19:39:03,207 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 19:39:04,218 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 19:39:04,219 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 19:39:04,219 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 19:39:04,220 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 20:52:41,693 [Worker-197] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 20:52:54,552 [Worker-189] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-28 20:52:54,936 [Worker-189] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 20:52:55,077 [Worker-189] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-28 20:52:55,103 [Worker-189] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 20:52:55,611 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/main/java
+2017-03-28 20:52:55,612 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/main/resources
+2017-03-28 20:52:55,612 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/test/java
+2017-03-28 20:52:55,612 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/test/resources
+2017-03-28 20:52:55,648 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-28 20:52:55,648 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-28 20:52:55,649 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-28 20:52:55,649 [Worker-189] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-28 20:52:55,734 [Worker-189] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-03-28 20:52:55,953 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 20:52:55,953 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 20:52:55,956 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 20:52:55,957 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 20:52:56,053 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 20:52:56,054 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 20:52:56,054 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 20:52:56,054 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 20:59:20,658 [Worker-200] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 20:59:44,625 [Worker-203] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:21:41,331 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:26:31,651 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:27:40,399 [Worker-222] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:28:52,556 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:29:37,975 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.jar
+2017-03-28 21:29:38,023 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.jar
+2017-03-28 21:29:38,078 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.pom
+2017-03-28 21:29:38,096 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.6.1/maven-compiler-plugin-3.6.1.pom
+2017-03-28 21:29:38,233 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.pom
+2017-03-28 21:29:38,258 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.pom
+2017-03-28 21:29:38,353 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.pom
+2017-03-28 21:29:38,380 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.pom
+2017-03-28 21:29:38,403 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/6.0_ALPHA/asm-parent-6.0_ALPHA.pom
+2017-03-28 21:29:38,428 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/6.0_ALPHA/asm-parent-6.0_ALPHA.pom
+2017-03-28 21:29:38,456 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.pom
+2017-03-28 21:29:38,481 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.pom
+2017-03-28 21:29:38,507 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.pom
+2017-03-28 21:29:38,525 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.pom
+2017-03-28 21:29:38,543 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.1/plexus-compiler-2.8.1.pom
+2017-03-28 21:29:38,564 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.1/plexus-compiler-2.8.1.pom
+2017-03-28 21:29:38,593 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.pom
+2017-03-28 21:29:38,610 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.pom
+2017-03-28 21:29:38,630 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.pom
+2017-03-28 21:29:38,648 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.pom
+2017-03-28 21:29:38,669 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.1/plexus-compilers-2.8.1.pom
+2017-03-28 21:29:38,688 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.1/plexus-compilers-2.8.1.pom
+2017-03-28 21:29:38,728 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.jar
+2017-03-28 21:29:38,784 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.1.0/maven-shared-utils-3.1.0.jar
+2017-03-28 21:29:38,803 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.jar
+2017-03-28 21:29:38,826 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.0_ALPHA/asm-6.0_ALPHA.jar
+2017-03-28 21:29:38,842 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.jar
+2017-03-28 21:29:38,919 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M5/qdox-2.0-M5.jar
+2017-03-28 21:29:38,937 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.jar
+2017-03-28 21:29:38,956 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.1/plexus-compiler-api-2.8.1.jar
+2017-03-28 21:29:38,972 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.jar
+2017-03-28 21:29:38,994 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.1/plexus-compiler-manager-2.8.1.jar
+2017-03-28 21:29:39,010 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.jar
+2017-03-28 21:29:39,032 [Worker-218] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.1/plexus-compiler-javac-2.8.1.jar
+2017-03-28 21:29:39,160 [Worker-218] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 21:29:39,292 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:29:39,296 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:29:39,297 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:29:39,297 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:29:46,363 [Worker-222] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-28 21:29:46,430 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:29:46,431 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:29:46,432 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:29:46,432 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:30:01,591 [Worker-222] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-28 21:30:01,881 [Worker-222] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 21:30:01,969 [Worker-222] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-28 21:30:01,981 [Worker-222] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 21:30:02,319 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/main/java
+2017-03-28 21:30:02,319 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/main/resources
+2017-03-28 21:30:02,319 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/test/java
+2017-03-28 21:30:02,320 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/test/resources
+2017-03-28 21:30:02,348 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-28 21:30:02,348 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-28 21:30:02,349 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-28 21:30:02,349 [Worker-222] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-28 21:30:02,409 [Worker-222] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-28 21:30:02,659 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:30:02,660 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:30:02,662 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:30:02,662 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:30:02,776 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:30:02,776 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 21:30:02,777 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 21:30:02,777 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:46:21,478 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:46:21,481 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:46:21,482 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:46:21,482 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:52:22,526 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:52:22,527 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:52:22,528 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:52:22,528 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:53:00,583 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:53:00,584 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:53:00,585 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:53:00,585 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:54:03,512 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:54:03,512 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:54:03,513 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:54:03,513 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:54:48,718 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:54:48,718 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:54:48,719 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:54:48,719 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:55:11,209 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:55:11,215 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:55:11,216 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:55:11,216 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:55:20,776 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:55:20,776 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:55:20,777 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:55:20,777 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:55:40,917 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:55:40,918 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 22:55:40,943 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:55:40,943 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:55:56,521 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:55:56,521 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 22:55:56,522 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:55:56,522 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:57:43,106 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:57:43,107 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 22:57:43,108 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:57:43,108 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:58:18,029 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:58:18,030 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 22:58:18,031 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:58:18,031 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:59:23,329 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:59:23,330 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:59:23,331 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:59:23,331 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:59:39,986 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:59:39,986 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:59:39,987 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:59:39,987 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:59:45,877 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:59:45,877 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:59:45,878 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:59:45,879 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:59:55,757 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:59:55,757 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 22:59:55,758 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 22:59:55,758 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:01:30,783 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:01:30,784 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 23:01:30,798 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:01:30,798 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:02:50,633 [Worker-254] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 23:02:50,945 [Worker-254] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-28 23:02:51,006 [Worker-254] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:02:52,486 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:02:52,489 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:02:52,491 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:02:52,491 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:02:52,525 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:02:52,525 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:02:52,526 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:02:52,526 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:03:18,843 [Worker-251] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:03:18,966 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:03:18,966 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:03:18,967 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:03:18,967 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:03:20,389 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:03:20,390 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 23:03:20,404 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:03:20,404 [Worker-258] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:03:31,804 [Worker-258] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-28 23:03:32,060 [Worker-258] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:03:32,158 [Worker-258] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-28 23:03:32,164 [Worker-258] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 23:03:32,581 [Worker-258] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/main/java
+2017-03-28 23:03:32,581 [Worker-258] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/main/resources
+2017-03-28 23:03:32,582 [Worker-258] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/test/java
+2017-03-28 23:03:32,582 [Worker-258] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/test/resources
+2017-03-28 23:03:32,624 [Worker-258] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-28 23:03:32,624 [Worker-258] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-28 23:03:32,624 [Worker-258] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-28 23:03:32,625 [Worker-258] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-28 23:03:32,716 [Worker-258] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-28 23:03:32,942 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:03:32,943 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:03:32,945 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:03:32,945 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:03:33,080 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:03:33,080 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 23:03:33,092 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:03:33,092 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:06:03,949 [Worker-265] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:06:04,032 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:06:04,036 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:06:04,036 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:06:04,037 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:06:55,754 [Worker-269] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:06:55,865 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:06:55,865 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:06:55,866 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:06:55,866 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:07:05,010 [Worker-267] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:07:05,263 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:07:05,265 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:07:05,267 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:07:05,267 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:07:23,790 [Worker-269] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:07:24,007 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:07:24,011 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:07:24,012 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:07:24,012 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:30:31,845 [Worker-272] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:30:32,063 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:30:32,065 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:30:32,067 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:30:32,067 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:30:33,529 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:30:33,530 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 23:30:33,544 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:30:33,544 [Worker-274] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:30:52,983 [Worker-275] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:30:53,158 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:30:53,159 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:30:53,160 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:30:53,160 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:30:54,525 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:30:54,525 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 23:30:54,538 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:30:54,539 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:31:07,337 [Worker-278] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:31:07,514 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:31:07,516 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:31:07,517 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:31:07,517 [Worker-278] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:33:05,639 [Worker-279] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:33:05,903 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:33:05,906 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:33:05,907 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:33:05,908 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:33:51,116 [Worker-275] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-28 23:33:51,305 [Worker-275] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:33:51,387 [Worker-275] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-28 23:33:51,395 [Worker-275] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-28 23:33:51,542 [Worker-275] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/main/java
+2017-03-28 23:33:51,542 [Worker-275] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/main/resources
+2017-03-28 23:33:51,542 [Worker-275] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/test/java
+2017-03-28 23:33:51,542 [Worker-275] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/test/resources
+2017-03-28 23:33:51,584 [Worker-275] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-28 23:33:51,584 [Worker-275] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-28 23:33:51,584 [Worker-275] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-28 23:33:51,585 [Worker-275] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-28 23:33:51,671 [Worker-275] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-28 23:33:51,865 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:33:51,865 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:33:51,867 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:33:51,867 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:33:52,174 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:33:52,174 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 23:33:52,184 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:33:52,185 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:34:13,358 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:34:13,360 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 23:34:13,361 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:34:13,361 [Worker-290] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:34:37,698 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:34:37,699 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 23:34:37,700 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:34:37,701 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:35:51,566 [Worker-286] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:35:51,662 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:35:51,662 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:35:51,662 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:35:51,663 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:35:57,306 [Worker-277] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:35:57,374 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:35:57,374 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:35:57,374 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:35:57,375 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:35:59,778 [Worker-277] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-28 23:35:59,844 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:35:59,844 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:35:59,844 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:35:59,845 [Worker-277] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:37:58,134 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:37:58,134 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 23:37:58,137 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:37:58,138 [Worker-282] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-28 23:38:47,058 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:38:47,058 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-28 23:38:47,059 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-28 23:38:47,059 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:03:12,541 [Worker-294] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 00:03:12,676 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:03:12,677 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:03:12,677 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:03:12,678 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:03:13,914 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:03:13,915 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 00:03:13,917 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:03:13,918 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:20:13,418 [Worker-303] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:20:13,424 [Worker-303] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 00:20:13,425 [Worker-303] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:20:13,425 [Worker-303] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:20:22,588 [Worker-302] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:20:22,588 [Worker-302] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 00:20:22,589 [Worker-302] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:20:22,590 [Worker-302] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:25:14,396 [Worker-306] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 00:25:14,688 [Worker-306] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/2.5/spring-test-2.5.pom
+2017-03-29 00:25:14,708 [Worker-306] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/2.5/spring-test-2.5.pom
+2017-03-29 00:25:14,746 [Worker-306] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/2.5/spring-test-2.5.jar
+2017-03-29 00:25:14,956 [Worker-306] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/2.5/spring-test-2.5.jar
+2017-03-29 00:25:14,970 [Worker-306] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.jar
+2017-03-29 00:25:15,033 [Worker-306] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1/commons-logging-1.1.jar
+2017-03-29 00:25:15,129 [Worker-306] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:25:15,130 [Worker-306] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:25:15,131 [Worker-306] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:25:15,131 [Worker-306] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:25:16,340 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:25:16,341 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 00:25:16,343 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:25:16,344 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:26:29,911 [Worker-309] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 00:26:29,996 [Worker-309] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.7.RELEASE/spring-test-4.3.7.RELEASE.pom
+2017-03-29 00:26:30,016 [Worker-309] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.7.RELEASE/spring-test-4.3.7.RELEASE.pom
+2017-03-29 00:26:30,044 [Worker-309] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.7.RELEASE/spring-test-4.3.7.RELEASE.jar
+2017-03-29 00:26:30,557 [Worker-309] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.7.RELEASE/spring-test-4.3.7.RELEASE.jar
+2017-03-29 00:26:30,590 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:26:30,591 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:26:30,592 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:26:30,592 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:26:31,786 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:26:31,787 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 00:26:31,788 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:26:31,788 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:27:06,312 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:27:06,313 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:27:06,313 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:27:06,313 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:30:26,752 [Worker-307] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:30:26,753 [Worker-307] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:30:26,758 [Worker-307] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:30:26,759 [Worker-307] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:37:51,567 [Worker-305] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 00:37:51,747 [Worker-305] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/sbrannen/spring-test-junit5/1.0.0.M3/spring-test-junit5-1.0.0.M3.pom
+2017-03-29 00:37:51,750 [Worker-305] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.sbrannen:spring-test-junit5:jar:1.0.0.M3 is missing, no dependency information available
+2017-03-29 00:37:51,865 [Worker-305] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/sbrannen/spring-test-junit5/1.0.0.M3/spring-test-junit5-1.0.0.M3.jar
+2017-03-29 00:37:51,902 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:37:51,903 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:37:51,904 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:37:51,904 [Worker-305] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:39:09,574 [Worker-307] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-29 00:39:09,828 [Worker-307] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-29 00:39:09,862 [Worker-307] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 00:39:10,468 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/sbrannen/spring-test-junit5/1.0.0.M3/spring-test-junit5-1.0.0.M3.pom
+2017-03-29 00:39:10,891 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/jupiter/junit-jupiter-api/5.0.0-M3/junit-jupiter-api-5.0.0-M3.pom
+2017-03-29 00:39:11,042 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.0.0-M3/junit-jupiter-api-5.0.0-M3.pom
+2017-03-29 00:39:11,060 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.0.0-M3/junit-jupiter-api-5.0.0-M3.pom
+2017-03-29 00:39:11,501 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/opentest4j/opentest4j/1.0.0-M1/opentest4j-1.0.0-M1.pom
+2017-03-29 00:39:11,516 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.0.0-M1/opentest4j-1.0.0-M1.pom
+2017-03-29 00:39:11,540 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.0.0-M1/opentest4j-1.0.0-M1.pom
+2017-03-29 00:39:12,008 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/platform/junit-platform-commons/1.0.0-M3/junit-platform-commons-1.0.0-M3.pom
+2017-03-29 00:39:12,024 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.0.0-M3/junit-platform-commons-1.0.0-M3.pom
+2017-03-29 00:39:12,042 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.0.0-M3/junit-platform-commons-1.0.0-M3.pom
+2017-03-29 00:39:12,520 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jitpack.io/com/github/sbrannen/spring-test-junit5/1.0.0.M3/spring-test-junit5-1.0.0.M3.jar
+2017-03-29 00:39:12,926 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/sbrannen/spring-test-junit5/1.0.0.M3/spring-test-junit5-1.0.0.M3.jar
+2017-03-29 00:39:13,334 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/jupiter/junit-jupiter-api/5.0.0-M3/junit-jupiter-api-5.0.0-M3.jar
+2017-03-29 00:39:13,742 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/opentest4j/opentest4j/1.0.0-M1/opentest4j-1.0.0-M1.jar
+2017-03-29 00:39:14,152 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/platform/junit-platform-commons/1.0.0-M3/junit-platform-commons-1.0.0-M3.jar
+2017-03-29 00:39:14,187 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.0.0-M3/junit-jupiter-api-5.0.0-M3.jar
+2017-03-29 00:39:14,262 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.0.0-M3/junit-jupiter-api-5.0.0-M3.jar
+2017-03-29 00:39:14,279 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.0.0-M1/opentest4j-1.0.0-M1.jar
+2017-03-29 00:39:14,294 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.0.0-M1/opentest4j-1.0.0-M1.jar
+2017-03-29 00:39:14,319 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.0.0-M3/junit-platform-commons-1.0.0-M3.jar
+2017-03-29 00:39:14,348 [Worker-307] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.0.0-M3/junit-platform-commons-1.0.0-M3.jar
+2017-03-29 00:39:15,694 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:39:15,696 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:39:15,697 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:39:15,698 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:39:15,831 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:39:15,832 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 00:39:15,843 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:39:15,843 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:39:20,793 [Worker-312] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-29 00:39:20,998 [Worker-312] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 00:39:21,082 [Worker-312] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-29 00:39:21,088 [Worker-312] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-29 00:39:21,209 [Worker-312] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/main/java
+2017-03-29 00:39:21,209 [Worker-312] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/main/resources
+2017-03-29 00:39:21,210 [Worker-312] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/test/java
+2017-03-29 00:39:21,210 [Worker-312] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/test/resources
+2017-03-29 00:39:21,247 [Worker-312] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-29 00:39:21,247 [Worker-312] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-29 00:39:21,247 [Worker-312] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-29 00:39:21,247 [Worker-312] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-29 00:39:21,314 [Worker-312] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-29 00:39:21,502 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:39:21,503 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:39:21,504 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:39:21,504 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:39:21,927 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:39:21,927 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 00:39:21,937 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:39:21,937 [Worker-308] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:41:26,694 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:41:26,696 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:41:26,696 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:41:26,697 [Worker-316] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:44:10,318 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:44:10,318 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:44:10,319 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:44:10,319 [Worker-314] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:52:50,457 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:52:50,458 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:52:50,461 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:52:50,462 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:54:12,973 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:54:12,974 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:54:12,975 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:54:12,975 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:55:28,131 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:55:28,131 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:55:28,131 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:55:28,131 [Worker-317] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:57:16,289 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:57:16,289 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 00:57:16,295 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 00:57:16,296 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:00:13,027 [Worker-324] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-29 01:00:13,228 [Worker-324] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.19/maven-surefire-plugin-2.19.jar
+2017-03-29 01:00:13,269 [Worker-324] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.19/maven-surefire-plugin-2.19.jar
+2017-03-29 01:00:13,608 [Worker-324] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-29 01:00:13,663 [Worker-324] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 01:00:15,076 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:00:15,078 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:00:15,080 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:00:15,081 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:00:15,194 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:00:15,194 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:00:15,195 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:00:15,196 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:01:22,747 [Worker-322] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 01:01:22,854 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:01:22,854 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:01:22,854 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:01:22,854 [Worker-322] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:01:22,876 [Worker-322] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.19/maven-surefire-plugin-2.19.pom
+2017-03-29 01:01:22,895 [Worker-322] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.19/maven-surefire-plugin-2.19.pom
+2017-03-29 01:01:22,912 [Worker-322] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.19/surefire-2.19.pom
+2017-03-29 01:01:22,942 [Worker-322] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.19/surefire-2.19.pom
+2017-03-29 01:01:23,176 [Worker-322] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-29 01:01:23,356 [Worker-322] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-29 01:01:23,392 [Worker-322] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 01:01:24,617 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:01:24,619 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:01:24,621 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:01:24,621 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:01:24,693 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:01:24,694 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:01:24,694 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:01:24,694 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:01:28,626 [Worker-323] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-29 01:01:28,786 [Worker-323] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-29 01:01:28,817 [Worker-323] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 01:01:30,175 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:01:30,176 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:01:30,177 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:01:30,177 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:01:30,242 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:01:30,242 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:01:30,243 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:01:30,243 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:02:34,585 [Worker-327] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-29 01:02:34,771 [Worker-327] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-29 01:02:34,808 [Worker-327] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 01:02:36,105 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:02:36,107 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:02:36,108 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:02:36,108 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:02:36,175 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:02:36,175 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:02:36,176 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:02:36,176 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:05:22,081 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:05:22,082 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:05:22,082 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:05:22,083 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:05:23,091 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:05:23,092 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 01:05:23,098 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:05:23,098 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:05:39,119 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:05:39,119 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:05:39,120 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:05:39,120 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:15:54,116 [Worker-324] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:15:54,116 [Worker-324] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:15:54,117 [Worker-324] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:15:54,117 [Worker-324] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:21:33,855 [Worker-332] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 01:21:34,443 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/springframework/spring-test/5.0.0.M1/spring-test-5.0.0.M1.pom
+2017-03-29 01:21:34,698 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.0.0.M1/spring-test-5.0.0.M1.pom
+2017-03-29 01:21:34,699 [Worker-332] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-test:jar:5.0.0.M1 is missing, no dependency information available
+2017-03-29 01:21:35,048 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/jupiter/junit-jupiter-engine/5.0.0-M1/junit-jupiter-engine-5.0.0-M1.pom
+2017-03-29 01:21:35,148 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.0.0-M1/junit-jupiter-engine-5.0.0-M1.pom
+2017-03-29 01:21:35,165 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.0.0-M1/junit-jupiter-engine-5.0.0-M1.pom
+2017-03-29 01:21:35,517 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/platform/junit-platform-engine/1.0.0-M1/junit-platform-engine-1.0.0-M1.pom
+2017-03-29 01:21:35,533 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.0.0-M1/junit-platform-engine-1.0.0-M1.pom
+2017-03-29 01:21:35,640 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.0.0-M1/junit-platform-engine-1.0.0-M1.pom
+2017-03-29 01:21:35,997 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/platform/junit-platform-commons/1.0.0-M1/junit-platform-commons-1.0.0-M1.pom
+2017-03-29 01:21:36,013 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.0.0-M1/junit-platform-commons-1.0.0-M1.pom
+2017-03-29 01:21:36,031 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.0.0-M1/junit-platform-commons-1.0.0-M1.pom
+2017-03-29 01:21:36,429 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/jupiter/junit-jupiter-api/5.0.0-M1/junit-jupiter-api-5.0.0-M1.pom
+2017-03-29 01:21:36,452 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.0.0-M1/junit-jupiter-api-5.0.0-M1.pom
+2017-03-29 01:21:36,472 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.0.0-M1/junit-jupiter-api-5.0.0-M1.pom
+2017-03-29 01:21:36,840 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/springframework/spring-test/5.0.0.M1/spring-test-5.0.0.M1.jar
+2017-03-29 01:21:37,249 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/jupiter/junit-jupiter-engine/5.0.0-M1/junit-jupiter-engine-5.0.0-M1.jar
+2017-03-29 01:21:37,609 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/platform/junit-platform-engine/1.0.0-M1/junit-platform-engine-1.0.0-M1.jar
+2017-03-29 01:21:37,722 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.0.0.M1/spring-test-5.0.0.M1.jar
+2017-03-29 01:21:37,930 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.0.0-M1/junit-jupiter-engine-5.0.0-M1.jar
+2017-03-29 01:21:38,008 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.0.0-M1/junit-jupiter-engine-5.0.0-M1.jar
+2017-03-29 01:21:38,125 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.0.0-M1/junit-platform-engine-1.0.0-M1.jar
+2017-03-29 01:21:38,160 [Worker-332] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.0.0-M1/junit-platform-engine-1.0.0-M1.jar
+2017-03-29 01:21:38,254 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:21:38,254 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:21:38,255 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:21:38,255 [Worker-332] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:24:21,666 [Worker-330] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-test:jar:5.0.0.M1 is missing, no dependency information available
+2017-03-29 01:24:21,682 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:24:21,682 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:24:21,685 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:24:21,685 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:25:38,921 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:25:38,921 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:25:38,921 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:25:38,921 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:26:13,075 [Worker-334] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:26:13,076 [Worker-334] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:26:13,076 [Worker-334] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:26:13,076 [Worker-334] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:26:43,458 [Worker-334] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 01:26:43,527 [Worker-334] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-test:jar:5.0.0.M1 is missing, no dependency information available
+2017-03-29 01:26:43,584 [Worker-334] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:26:43,584 [Worker-334] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:26:43,585 [Worker-334] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:26:43,585 [Worker-334] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:27:08,374 [Worker-335] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 01:27:08,467 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:27:08,467 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:27:08,467 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:27:08,467 [Worker-335] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 01:27:09,851 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:27:09,852 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 01:27:09,856 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 01:27:09,856 [Worker-326] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 08:52:35,415 [Worker-366] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 08:52:35,416 [Worker-366] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 08:52:35,418 [Worker-366] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 08:52:35,419 [Worker-366] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 08:52:48,424 [Worker-366] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 08:52:48,424 [Worker-366] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 08:52:48,425 [Worker-366] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 08:52:48,425 [Worker-366] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:10:49,536 [Worker-368] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:10:49,537 [Worker-368] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:10:49,544 [Worker-368] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:10:49,545 [Worker-368] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:11:29,255 [Worker-371] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:11:29,255 [Worker-371] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:11:29,256 [Worker-371] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:11:29,256 [Worker-371] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:11:37,329 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:11:37,329 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:11:37,330 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:11:37,330 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:11:49,030 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:11:49,030 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:11:49,030 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:11:49,031 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:12:13,840 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:12:13,840 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:12:13,840 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:12:13,841 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:13:37,419 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:13:37,419 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:13:37,423 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:13:37,424 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:14:15,285 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:14:15,285 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 23:14:15,286 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:14:15,286 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:15:27,915 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:15:27,915 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 23:15:27,918 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:15:27,918 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:16:46,356 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:16:46,357 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 23:16:46,358 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:16:46,358 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:17:17,712 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:17:17,712 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-29 23:17:17,713 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:17:17,713 [Worker-376] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:19:41,339 [Worker-375] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-29 23:19:41,525 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:19:41,525 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:19:41,525 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:19:41,525 [Worker-375] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:19:42,945 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:19:42,946 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-29 23:19:42,948 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:19:42,948 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:19:51,669 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-03-29 23:20:25,218 [Worker-380] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root
+2017-03-29 23:20:25,218 [Worker-380] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests install
+2017-03-29 23:20:35,388 [Worker-373] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root
+2017-03-29 23:20:35,388 [Worker-373] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests install
+2017-03-29 23:21:01,999 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/springframework/spring-test/4.3.7.RELEASE/spring-test-4.3.7.RELEASE-sources.jar
+2017-03-29 23:21:02,004 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.7.RELEASE/spring-test-4.3.7.RELEASE-sources.jar
+2017-03-29 23:21:02,005 [Worker-377] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework:spring-test:4.3.7.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework:spring-test:jar:sources:4.3.7.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1) ~[org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:244) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:223) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:197) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:153) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:136) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:134) [org.eclipse.m2e.jdt_1.6.2.20150902-0002.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2017-03-29 23:21:02,184 [Worker-373] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:21:02,185 [Worker-373] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:21:02,185 [Worker-373] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:21:02,185 [Worker-373] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:23:48,868 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:23:48,869 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-29 23:23:48,872 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-29 23:23:48,872 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:32:15,562 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:32:15,562 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:32:15,563 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:32:15,563 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:41:23,933 [Worker-386] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-30 00:41:24,084 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:41:24,084 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:41:24,085 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:41:24,085 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:41:25,500 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:41:25,500 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 00:41:25,502 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:41:25,502 [Worker-386] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:47:23,196 [Worker-377] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-30 00:47:23,807 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/platform/junit-platform-console/1.0.0-M3/junit-platform-console-1.0.0-M3.pom
+2017-03-30 00:47:23,958 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-console/1.0.0-M3/junit-platform-console-1.0.0-M3.pom
+2017-03-30 00:47:23,975 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-console/1.0.0-M3/junit-platform-console-1.0.0-M3.pom
+2017-03-30 00:47:24,421 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/vintage/junit-vintage-engine/4.12.0-M3/junit-vintage-engine-4.12.0-M3.pom
+2017-03-30 00:47:24,464 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/vintage/junit-vintage-engine/4.12.0-M3/junit-vintage-engine-4.12.0-M3.pom
+2017-03-30 00:47:24,571 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/vintage/junit-vintage-engine/4.12.0-M3/junit-vintage-engine-4.12.0-M3.pom
+2017-03-30 00:47:25,053 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/platform/junit-platform-console/1.0.0-M3/junit-platform-console-1.0.0-M3.jar
+2017-03-30 00:47:25,445 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/org/junit/vintage/junit-vintage-engine/4.12.0-M3/junit-vintage-engine-4.12.0-M3.jar
+2017-03-30 00:47:25,463 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-console/1.0.0-M3/junit-platform-console-1.0.0-M3.jar
+2017-03-30 00:47:25,527 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-console/1.0.0-M3/junit-platform-console-1.0.0-M3.jar
+2017-03-30 00:47:25,627 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/vintage/junit-vintage-engine/4.12.0-M3/junit-vintage-engine-4.12.0-M3.jar
+2017-03-30 00:47:25,652 [Worker-377] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/vintage/junit-vintage-engine/4.12.0-M3/junit-vintage-engine-4.12.0-M3.jar
+2017-03-30 00:47:25,698 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:47:25,698 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:47:25,698 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:47:25,698 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:47:27,031 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:47:27,031 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 00:47:27,032 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:47:27,033 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:48:48,068 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:48:48,068 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:48:48,068 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:48:48,069 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:49:26,360 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:49:26,360 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:49:26,360 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:49:26,360 [Worker-389] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:54:22,292 [Worker-391] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-30 00:54:22,416 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:54:22,416 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:54:22,419 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:54:22,419 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:54:23,730 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:54:23,731 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 00:54:23,733 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:54:23,733 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:57:02,189 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:57:02,190 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:57:02,190 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:57:02,190 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:58:14,431 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:58:14,431 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:58:14,432 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:58:14,432 [Worker-377] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:58:29,780 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:58:29,781 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 00:58:29,781 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:58:29,781 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:58:54,813 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:58:54,813 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 00:58:54,814 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 00:58:54,814 [Worker-392] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 09:38:05,434 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:38:05,436 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 09:38:05,437 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:38:05,438 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 09:40:43,649 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:40:43,650 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 09:40:43,651 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 09:40:43,651 [Worker-407] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:40:19,932 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:40:19,934 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 19:40:19,936 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:40:19,936 [Worker-419] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:40:40,509 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:40:40,509 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:40:40,510 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:40:40,510 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:42:41,908 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:42:41,909 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 19:42:41,911 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:42:41,911 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:42:51,956 [Worker-421] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:42:51,957 [Worker-421] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 19:42:51,958 [Worker-421] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:42:51,958 [Worker-421] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:43:01,945 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:43:01,946 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 19:43:01,946 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:43:01,946 [Worker-420] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:43:10,271 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:43:10,271 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 19:43:10,275 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:43:10,275 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:43:28,883 [Worker-412] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-30 19:43:29,204 [Worker-412] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-30 19:43:29,338 [Worker-412] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-common:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-common/pom.xml.
+2017-03-30 19:43:29,344 [Worker-412] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-root:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-root/pom.xml.
+2017-03-30 19:43:29,561 [Worker-412] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/main/java
+2017-03-30 19:43:29,562 [Worker-412] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/main/resources
+2017-03-30 19:43:29,562 [Worker-412] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-business/src/test/java
+2017-03-30 19:43:29,562 [Worker-412] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-business/src/test/resources
+2017-03-30 19:43:29,604 [Worker-412] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/main/java
+2017-03-30 19:43:29,604 [Worker-412] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/main/resources
+2017-03-30 19:43:29,604 [Worker-412] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jerytodik-common/src/test/java
+2017-03-30 19:43:29,604 [Worker-412] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jerytodik-common/src/test/resources
+2017-03-30 19:43:29,688 [Worker-412] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-03-30 19:43:29,877 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:43:29,877 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:43:29,879 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:43:29,879 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:43:30,275 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:43:30,275 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 19:43:30,285 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:43:30,286 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:44:08,635 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:44:08,638 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 19:44:08,639 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:44:08,639 [Worker-423] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 19:44:51,148 [Worker-434] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:44:51,148 [Worker-434] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 19:44:51,149 [Worker-434] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 19:44:51,149 [Worker-434] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:02:42,038 [Worker-441] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-30 22:02:42,171 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:02:42,172 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:02:42,172 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:02:42,172 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:02:43,475 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:02:43,475 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 22:02:43,480 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:02:43,480 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:02:50,789 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:02:50,789 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 22:02:50,790 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:02:50,790 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:03:08,630 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:03:08,630 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 22:03:08,634 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:03:08,634 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:04:26,109 [Worker-449] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mg.jerytodik:jerytodik-business:1.0-RELEASE @ /Users/andriantomanga/Desktop/workspace-one/jerytodik/workspace/jerytodik-business/pom.xml.
+2017-03-30 22:04:26,212 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:04:26,212 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:04:26,213 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:04:26,213 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:04:27,426 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:04:27,426 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 22:04:27,428 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:04:27,428 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:05:19,455 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:05:19,455 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:05:19,456 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:05:19,456 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:05:24,187 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:05:24,187 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:05:24,188 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:05:24,188 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-30 22:06:38,276 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:06:38,277 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-03-30 22:06:38,278 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-03-30 22:06:38,278 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

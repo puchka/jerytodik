@@ -90,4 +90,11 @@ public class JeriTodikSource extends AbstractJeriTodikMutableData {
 		this.id = id;
 	}
 
+	@Override
+	public String toString() {
+		return "JeriTodikSource [id=" + id + ", url=" + url + ", activated=" + activated + ", startDate=" + startDate
+				+ "]";
+	}
+
+	
 }
