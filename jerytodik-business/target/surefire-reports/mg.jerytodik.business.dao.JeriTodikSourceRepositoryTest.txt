@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: mg.jerytodik.business.dao.JeriTodikSourceRepositoryTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.78 sec

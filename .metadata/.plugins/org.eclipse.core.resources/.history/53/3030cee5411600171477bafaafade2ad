@@ -47,6 +47,10 @@ public class JeriTodikSourceRepositoryTest {
 
 		final List<JeriTodikSource> sources = jeriTodikSourceRepository.findAllActivatedJeriTodikSource();
 		
+		for(final JeriTodikSource source : sources) {
+			System.out.println(""  + source.getUrl());
+		}
+		
 		assertFalse(sources.isEmpty());
 	}
 
