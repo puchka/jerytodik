@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;jerytodik-root/home/config/jerytodik.properties&apos;" deleteContents="false" description="Delete resource &apos;jerytodik-root/home/config/jerytodik.properties&apos;" element1="/jerytodik-root/home/config/jerytodik.properties" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1491000236906"/>
-</session>
