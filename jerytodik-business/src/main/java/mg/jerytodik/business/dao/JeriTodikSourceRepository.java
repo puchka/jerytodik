@@ -29,7 +29,7 @@ import mg.jerytodik.common.entity.JeriTodikSource;
 /**
  * @author nabil andriantomanga
  */
-@Repository(value="jeriTodikSourceRepository")
+@Repository(value = "jeriTodikSourceRepository")
 public interface JeriTodikSourceRepository extends JpaRepository<JeriTodikSource, Long> {
 
 	@Query("from JeriTodikSource J where J.activated is true")

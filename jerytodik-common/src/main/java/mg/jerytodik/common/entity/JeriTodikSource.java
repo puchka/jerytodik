@@ -37,37 +37,37 @@ import javax.persistence.TemporalType;
 @Table(name = "jt_source")
 public class JeriTodikSource extends AbstractJeriTodikMutableData {
 
-	private static final long serialVersionUID = -3125794748821301487L;
+	private static final long	serialVersionUID	= -3125794748821301487L;
+
+	/* traitement autorise sur la ressource ? */
+	@Column(name = "jt_source_activated", nullable = false)
+	private boolean				activated;
 
 	@Id
 	@Column(name = "jt_source_id")
 	@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_jt_source")
 	@SequenceGenerator(name = "seq_jt_source", sequenceName = "seq_jt_source", allocationSize = 1)
-	private Long id;
-
-	/* url vers la ressource */
-	@Column(name = "jt_source_url", nullable = false, length = 255)
-	private String url;
-
-	/* traitement autorise sur la ressource ? */
-	@Column(name = "jt_source_activated", nullable = false)
-	private boolean activated;
+	private Long				id;
 
 	@Column(name = "jt_source_start_date", nullable = true)
 	@Temporal(TemporalType.DATE)
-	private Date startDate;
+	private Date				startDate;
+
+	/* url vers la ressource */
+	@Column(name = "jt_source_url", nullable = false, length = 255)
+	private String				url;
 
 	@Override
 	public Long getId() {
 		return id;
 	}
 
-	public String getUrl() {
-		return url;
+	public Date getStartDate() {
+		return startDate;
 	}
 
-	public void setUrl(String url) {
-		this.url = url;
+	public String getUrl() {
+		return url;
 	}
 
 	public boolean isActivated() {
@@ -78,16 +78,16 @@ public class JeriTodikSource extends AbstractJeriTodikMutableData {
 		this.activated = activated;
 	}
 
-	public Date getStartDate() {
-		return startDate;
+	public void setId(Long id) {
+		this.id = id;
 	}
 
 	public void setStartDate(Date startDate) {
 		this.startDate = startDate;
 	}
 
-	public void setId(Long id) {
-		this.id = id;
+	public void setUrl(String url) {
+		this.url = url;
 	}
 
 	@Override
@@ -96,5 +96,4 @@ public class JeriTodikSource extends AbstractJeriTodikMutableData {
 				+ "]";
 	}
 
-	
 }

@@ -642,3 +642,9 @@ Caused by: java.net.UnknownHostException: repo.maven.apache.org: unknown error
 	at io.takari.aether.connector.AetherRepositoryConnector$GetTask.run(AetherRepositoryConnector.java:453)
 	at io.takari.aether.connector.AetherRepositoryConnector.get(AetherRepositoryConnector.java:304)
 	... 24 more
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2017-04-01 00:47:28.168
+!MESSAGE Server returned lastModified <= 0 for https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite/content.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-01 11:17:19.078
+!MESSAGE The POM for org.springframework:spring-test:jar:44.3.7.RELEASE is missing, no dependency information available

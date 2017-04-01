@@ -1,5 +1,4 @@
 
-
 /*
  * Licensed to JeryTodik under one or more contributor
  * license agreements. See the NOTICE file distributed with
@@ -25,10 +24,14 @@ import java.util.Properties;
 import javax.sql.DataSource;
 
 import org.hibernate.jpa.HibernatePersistenceProvider;
+import org.springframework.beans.factory.annotation.Autowired;
 //import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.PropertySource;
+import org.springframework.context.annotation.PropertySources;
+import org.springframework.core.env.Environment;
 //import org.springframework.context.annotation.PropertySource;
 //import org.springframework.core.env.Environment;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
@@ -38,6 +41,8 @@ import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
 import org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
+import mg.jerytodik.common.utility.HibernateUtil;
+
 /**
  * @author nabil andriantomanga
  */
@@ -45,26 +50,31 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @Configuration
 @EnableJpaRepositories(basePackages = "mg.jerytodik.business.dao")
 @EnableTransactionManagement
-//@PropertySource("classpath:/mg/jerytodik/app.properties")
+@PropertySources({ @PropertySource("classpath:/mg/jerytodik/config/database.properties"),
+		@PropertySource("classpath:/mg/jerytodik/config/jerytodik.properties"),
+		@PropertySource("classpath:/mg/jerytodik/config/hibernate.properties"),
+		/* override propertie */
+		@PropertySource(value = "file:${jerytodik_home}/config/database.properties", ignoreResourceNotFound = true),
+		@PropertySource(value = "file:${jerytodik_home}/config/hibernate.properties", ignoreResourceNotFound = true),
+		@PropertySource(value = "file:${jerytodik_home}/config/database.properties", ignoreResourceNotFound = true), })
 public class JeriTodikConfig {
 
-	//@Autowired
-	//Environment env;
+	@Autowired
+	Environment env;
 
-	
 	@Bean
 	public DataSource dataSource() {
 
 		DriverManagerDataSource ds = new DriverManagerDataSource();
 
-		ds.setDriverClassName("org.postgresql.Driver");
-		ds.setUrl("jdbc:postgresql://localhost:5432/facedev");
-		ds.setUsername("postgres");
-		ds.setPassword("nabil");
+		ds.setDriverClassName(env.getProperty("db.driver"));
+		ds.setUrl(env.getProperty("db.url"));
+		ds.setUsername(env.getProperty("db.username"));
+		ds.setPassword(env.getProperty("db.password"));
+
 		return ds;
 	}
 
-	
 	@Bean(name = "entityManagerFactory")
 	public LocalContainerEntityManagerFactoryBean entityManagerFactoryBean() {
 
@@ -77,10 +87,10 @@ public class JeriTodikConfig {
 
 		Properties properties = new Properties();
 
-		properties.put("hibernate.dialect", "org.hibernate.dialect.PostgreSQLDialect");
-		properties.put("hibernate.show_sql", "true");
-		properties.put("hibernate.format_sql", "true");
-		properties.put("hibernate.hbm2ddl.auto", "update");
+		properties.put(HibernateUtil.HIBERNATE_DIALECT, env.getProperty(HibernateUtil.HIBERNATE_DIALECT));
+		properties.put(HibernateUtil.HIBERNATE_SHOW_SQL, env.getProperty(HibernateUtil.HIBERNATE_SHOW_SQL));
+		properties.put(HibernateUtil.HIBERNATE_FORMAT_SQL, env.getProperty(HibernateUtil.HIBERNATE_FORMAT_SQL));
+		properties.put(HibernateUtil.HIBERNATE_HBM2DDL_AUTO, env.getProperty(HibernateUtil.HIBERNATE_HBM2DDL_AUTO));
 
 		entityManagerFactoryBean.setJpaProperties(properties);
 		return entityManagerFactoryBean;

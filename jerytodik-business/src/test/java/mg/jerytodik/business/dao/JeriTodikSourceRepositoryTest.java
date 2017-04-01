@@ -18,10 +18,11 @@
  */
 package mg.jerytodik.business.dao;
 
+import static org.junit.jupiter.api.Assertions.assertFalse;
+
 import java.util.List;
 
 import org.junit.Test;
-import static org.junit.jupiter.api.Assertions.assertFalse;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
@@ -46,7 +47,7 @@ public class JeriTodikSourceRepositoryTest {
 	public void testFindAllActivatedJeriTodikSource() {
 
 		final List<JeriTodikSource> sources = jeriTodikSourceRepository.findAllActivatedJeriTodikSource();
-		
+
 		assertFalse(sources.isEmpty());
 	}
 

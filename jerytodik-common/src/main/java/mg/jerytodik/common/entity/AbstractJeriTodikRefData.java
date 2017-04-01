@@ -29,13 +29,13 @@ import javax.persistence.MappedSuperclass;
 @MappedSuperclass
 public abstract class AbstractJeriTodikRefData implements Serializable {
 
-	private static final long serialVersionUID = -1729932131089686804L;
+	private static final long	serialVersionUID	= -1729932131089686804L;
 
 	@Column(name = "code", nullable = false, length = 4)
-	protected String code;
+	protected String			code;
 
 	@Column(name = "label", nullable = false, length = 100)
-	protected String label;
+	protected String			label;
 
 	public String getCode() {
 		return code;
