@@ -1,4 +1,0 @@
-#Tomcat publish data
-#Sat Apr 01 23:31:39 CEST 2017
-org.eclipse.jst.j2ee.server\:jerytodik-business=WEB-INF/lib/jerytodik-business-1.0-RELEASE.jar
-org.eclipse.jst.j2ee.server\:jerytodik-common=WEB-INF/lib/jerytodik-common-1.0-RELEASE.jar
