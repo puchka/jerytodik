@@ -1,0 +1,8 @@
+2017-04-01 23:20:02,682 ERROR [Initializing Servers view] - System.err - Exception in thread "Initializing Servers view"
+2017-04-01 23:20:02,684 ERROR [Initializing Servers view] - System.err - java.lang.NullPointerException
+2017-04-01 23:20:02,684 ERROR [Initializing Servers view] - System.err - at org.eclipse.wst.server.core.internal.ServerTypeProxy.<init>(ServerTypeProxy.java:46)
+2017-04-01 23:20:02,684 ERROR [Initializing Servers view] - System.err - at org.eclipse.wst.server.core.ServerCore.createProxyServers(ServerCore.java:328)
+2017-04-01 23:20:02,684 ERROR [Initializing Servers view] - System.err - at org.eclipse.wst.server.core.ServerCore.loadDAServerTypes(ServerCore.java:299)
+2017-04-01 23:20:02,684 ERROR [Initializing Servers view] - System.err - at org.eclipse.wst.server.core.ServerCore.getDownloadableServers(ServerCore.java:167)
+2017-04-01 23:20:02,684 ERROR [Initializing Servers view] - System.err - at org.eclipse.wst.server.ui.internal.viewers.ServerTypeTreeContentProvider.deferredAdapterInitialize(ServerTypeTreeContentProvider.java:145)
+2017-04-01 23:20:02,684 ERROR [Initializing Servers view] - System.err - at org.eclipse.wst.server.ui.internal.viewers.AbstractTreeContentProvider$1.run(AbstractTreeContentProvider.java:57)

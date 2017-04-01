@@ -39,11 +39,14 @@
 		<hibernate.version>5.1.5.Final</hibernate.version>
 		<postgresql.driver.version>9.1-901.jdbc4</postgresql.driver.version>
 		<spring.version>4.3.7.RELEASE</spring.version>
+		<quartz.version>2.2.1</quartz.version>
+		<slf4j.version>1.7.24</slf4j.version>
 	</properties>
 
 	<modules>
 		<module>../jerytodik-common</module>
 		<module>../jerytodik-business</module>
+		<module>../jerytodik-scheduler</module>
 	</modules>
 
 	<repositories>
@@ -67,5 +70,38 @@
 			</plugin>
 		</plugins>
 	</build>
+	<profiles>
+		<profile>
+			<id>release</id>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-source-plugin</artifactId>
+						<executions>
+							<execution>
+								<id>attach-sources</id>
+								<goals>
+									<goal>jar-no-fork</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-javadoc-plugin</artifactId>
+						<executions>
+							<execution>
+								<id>attach-javadocs</id>
+								<goals>
+									<goal>jar</goal>
+								</goals>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
 
 </project>
