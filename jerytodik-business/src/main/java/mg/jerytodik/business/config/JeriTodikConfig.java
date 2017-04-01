@@ -56,7 +56,7 @@ import mg.jerytodik.common.utility.HibernateUtil;
 		/* override propertie */
 		@PropertySource(value = "file:${jerytodik_home}/config/database.properties", ignoreResourceNotFound = true),
 		@PropertySource(value = "file:${jerytodik_home}/config/hibernate.properties", ignoreResourceNotFound = true),
-		@PropertySource(value = "file:${jerytodik_home}/config/database.properties", ignoreResourceNotFound = true), })
+		@PropertySource(value = "file:${jerytodik_home}/config/jerytodik.properties", ignoreResourceNotFound = true), })
 public class JeriTodikConfig {
 
 	@Autowired

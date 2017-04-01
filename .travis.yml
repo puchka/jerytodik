@@ -3,4 +3,4 @@ jdk:
 - oraclejdk8
 os:
 - linux
-script: sh build-jerytodik.sh
+script: sh jerytodik-build/build-jerytodik.sh

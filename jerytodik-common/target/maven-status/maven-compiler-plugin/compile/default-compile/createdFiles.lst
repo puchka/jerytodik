@@ -1,3 +1,4 @@
 mg/jerytodik/common/entity/AbstractJeriTodikMutableData.class
 mg/jerytodik/common/entity/AbstractJeriTodikRefData.class
 mg/jerytodik/common/entity/JeriTodikSource.class
+mg/jerytodik/common/utility/HibernateUtil.class
