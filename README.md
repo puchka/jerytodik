@@ -6,4 +6,9 @@ Un projet multi-module d'archivage de ressources web et d'exploitation de celles
 
 [![Build Status](https://travis-ci.org/Andriantomanga/jerytodik.svg?branch=master)](https://travis-ci.org/Andriantomanga/jerytodik)
 
+## Contribution
+
+Vous pouvez me contacter au : contact at andriantomanga.com
+
+
 
