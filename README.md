@@ -1,4 +1,4 @@
-# JeryTodik
+![JeryTodik](https://github.com/Andriantomanga/jerytodik/blob/master/jerytodik-logo.png)
 
 Un projet multi-module d'archivage de ressources web et d'exploitation de celles-ci pour des fins d'analyse et encore plus ... 
 
