@@ -40,7 +40,7 @@ public class JerytodikResourcesArchiverJob implements Job {
 	private JeryTodikSourceService	jeryTodikSourceService;
 
 	@Override
-	public void execute(JobExecutionContext jerytodikExecutionContext) throws JobExecutionException {
+	public void execute(final JobExecutionContext jerytodikExecutionContext) throws JobExecutionException {
 
 		LOGGER.info("Job ** {} ** executed @ {}", jerytodikExecutionContext.getJobDetail().getKey().getName(),
 				jerytodikExecutionContext.getFireTime());

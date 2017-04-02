@@ -38,8 +38,9 @@ public class JerytodikInitializerListener extends QuartzInitializerListener {
 
 	private static final Logger LOGGER = LoggerFactory.getLogger(JerytodikInitializerListener.class);
 
+	@SuppressWarnings("resource")
 	@Override
-	public void contextInitialized(ServletContextEvent contextEvent) {
+	public void contextInitialized(final ServletContextEvent contextEvent) {
 		super.contextInitialized(contextEvent);
 
 		final ApplicationContext applicationContext = new AnnotationConfigApplicationContext(
@@ -50,7 +51,7 @@ public class JerytodikInitializerListener extends QuartzInitializerListener {
 		try {
 			schedulerFactoryBean.start();
 		} catch (Exception e) {
-			LOGGER.error("Une erreur est survenue lors de l'exécution du job.", e);
+			LOGGER.error("Error occured.", e);
 		}
 	}
 }

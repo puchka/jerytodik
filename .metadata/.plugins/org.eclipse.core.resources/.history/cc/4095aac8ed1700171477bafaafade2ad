@@ -1,0 +1,6 @@
+
+# Repertoire qui contiendra tous les archives
+jerytodik.archive.root.folder=/Users/andriantomanga
+
+# Intervalle de temps en millisecondes entre deux lancement
+jerytodik.scheduling.intervall=10000

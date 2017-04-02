@@ -62,7 +62,7 @@ public class JeryTodikSchedulerConfig {
 	}
 
 	@Bean
-	public SchedulerFactoryBean scheduler(Trigger trigger, JobDetail job) {
+	public SchedulerFactoryBean scheduler(final Trigger trigger, final JobDetail job) {
 
 		SchedulerFactoryBean schedulerFactory = new SchedulerFactoryBean();
 		schedulerFactory.setConfigLocation(new ClassPathResource("quartz.properties"));
@@ -83,11 +83,11 @@ public class JeryTodikSchedulerConfig {
 	}
 
 	@Bean
-	public SimpleTriggerFactoryBean trigger(JobDetail job) {
+	public SimpleTriggerFactoryBean trigger(final JobDetail job) {
 
 		SimpleTriggerFactoryBean trigger = new SimpleTriggerFactoryBean();
 		trigger.setJobDetail(job);
-		trigger.setRepeatInterval(5000);
+		trigger.setRepeatInterval(Long.parseLong(env.getProperty("jerytodik.scheduling.interval")));
 		trigger.setRepeatCount(SimpleTrigger.REPEAT_INDEFINITELY);
 
 		return trigger;

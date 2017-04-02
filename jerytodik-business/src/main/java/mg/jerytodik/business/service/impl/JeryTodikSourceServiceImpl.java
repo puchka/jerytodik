@@ -28,6 +28,7 @@ import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import mg.jerytodik.business.dao.JeryTodikSourceRepository;
@@ -49,6 +50,9 @@ public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
 
 	private static final Logger			LOGGER			= LoggerFactory.getLogger(JeryTodikSourceServiceImpl.class);
 
+	@Value("${jerytodik.archive.root.folder}")
+	private String						archiveRootFolder;
+
 	@Autowired
 	private JeryTodikSourceRepository	jeryTodikSourceRepository;
 
@@ -58,13 +62,13 @@ public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
 	@Override
 	public void archiveActiveResources() {
 
-		for (final JeryTodikSource jeryTodikSource : jeryTodikSourceRepository.findAllActivatedJeriTodikSource()) {
+		jeryTodikSourceRepository.findAllActivatedJeriTodikSource().stream().forEach((i) -> {
 			try {
-				archiveResource(jeryTodikSource);
-			} catch (JerytodikException e) {
+				archiveResource(i);
+			} catch (Exception e) {
 				LOGGER.error(e.getMessage());
 			}
-		}
+		});
 	}
 
 	/**
@@ -80,7 +84,7 @@ public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
 
 			final String rootResourceFolderName = createRootResourceFolderName(jerytodikSource.getUrl());
 
-			LOGGER.info("");
+			LOGGER.info("Archiving resources {} from {}", jerytodikSource.getName(), jerytodikSource.getUrl());
 			writeInFile(rootResourceFolderName, principalResourceContent);
 
 		} catch (IOException e) {
@@ -89,11 +93,12 @@ public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
 
 	}
 
-	private String createRootResourceFolderName(final String possibleMalformedName) {
+	private String createRootResourceFolderName(String possibleMalformedName) {
 
-		possibleMalformedName.replaceAll(JerytodikUtil.ALPHANUMERIC_PATTERN, JerytodikUtil.DASHE_SEPARATOR);
+		possibleMalformedName = possibleMalformedName.replaceAll(JerytodikUtil.ALPHANUMERIC_PATTERN,
+				JerytodikUtil.DASHE_SEPARATOR);
 
-		return possibleMalformedName.trim();
+		return archiveRootFolder + File.separator + possibleMalformedName.trim();
 	}
 
 	private String getPrincipalResourceContent(final JeryTodikSource jerytodikSource) throws IOException {
@@ -128,9 +133,9 @@ public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
 		if (!new File(rootResourceFolderName).exists()) {
 			LOGGER.info("The directory named {} does not exist.The directory is being created", rootResourceFolderName);
 
-			if (!new File(rootResourceFolderName).mkdir()) {
+			if (!new File(rootResourceFolderName).mkdirs()) {
 				throw new JerytodikException(
-						"Unable to create directory. Please check that J has write permission and that there is enough space on the disk.");
+						"Unable to create directory. Please check that Jerytodik has write permission and that there is enough space on the disk.");
 			}
 		}
 
@@ -141,12 +146,7 @@ public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
 		writer.println(principalResourceContent);
 		writer.close();
 
-		// Si donnees binaires ...
-
-		// byte data[] = ...
-		// FileOutputStream out = new FileOutputStream("the-file-name");
-		// out.write(data);
-		// out.close();
+		LOGGER.info("File successfully created : {}", filePath);
 	}
 
 }
