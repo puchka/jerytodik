@@ -18,20 +18,17 @@
  */
 package mg.jerytodik.scheduler.listeners;
 
-import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.annotation.WebListener;
 
-import org.quartz.CronScheduleBuilder;
-import org.quartz.JobBuilder;
-import org.quartz.JobDetail;
-import org.quartz.Scheduler;
-import org.quartz.Trigger;
-import org.quartz.TriggerBuilder;
 import org.quartz.ee.servlet.QuartzInitializerListener;
-import org.quartz.impl.StdSchedulerFactory;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.scheduling.quartz.SchedulerFactoryBean;
 
-import mg.jerytodik.scheduler.jobs.JerytodikResourcesArchiverJob;
+import mg.jerytodik.scheduler.config.JeryTodikSchedulerConfig;
 
 /**
  * @author nabil andriantomanga
@@ -39,26 +36,21 @@ import mg.jerytodik.scheduler.jobs.JerytodikResourcesArchiverJob;
 @WebListener
 public class JerytodikInitializerListener extends QuartzInitializerListener {
 
+	private static final Logger LOGGER = LoggerFactory.getLogger(JerytodikInitializerListener.class);
+
 	@Override
 	public void contextInitialized(ServletContextEvent contextEvent) {
 		super.contextInitialized(contextEvent);
 
-		ServletContext ctx = contextEvent.getServletContext();
-		StdSchedulerFactory factory = (StdSchedulerFactory) ctx.getAttribute(QUARTZ_FACTORY_KEY);
+		final ApplicationContext applicationContext = new AnnotationConfigApplicationContext(
+				JeryTodikSchedulerConfig.class);
+
+		final SchedulerFactoryBean schedulerFactoryBean = applicationContext.getBean(SchedulerFactoryBean.class);
 
 		try {
-			Scheduler scheduler = factory.getScheduler();
-			JobDetail jobDetail = JobBuilder.newJob(JerytodikResourcesArchiverJob.class).build();
-
-			Trigger trigger = TriggerBuilder.newTrigger().withIdentity("simple")
-					.withSchedule(CronScheduleBuilder.cronSchedule("0 0/1 * 1/1 * ? *")).startNow().build();
-
-			scheduler.scheduleJob(jobDetail, trigger);
-			scheduler.start();
-
+			schedulerFactoryBean.start();
 		} catch (Exception e) {
-			ctx.log("Une erreur est survenue lors de l'exécution du job.", e);
+			LOGGER.error("Une erreur est survenue lors de l'exécution du job.", e);
 		}
 	}
-
 }

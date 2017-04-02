@@ -21,17 +21,32 @@ package mg.jerytodik.scheduler.jobs;
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+import mg.jerytodik.business.service.JeryTodikSourceService;
 
 /**
  * @author nabil andriantomanga
  */
+@Component
 public class JerytodikResourcesArchiverJob implements Job {
+
+	private static final Logger		LOGGER	= LoggerFactory.getLogger(JerytodikResourcesArchiverJob.class);
+
+	@Autowired
+	private JeryTodikSourceService	jeryTodikSourceService;
 
 	@Override
 	public void execute(JobExecutionContext jerytodikExecutionContext) throws JobExecutionException {
-		// TODO Auto-generated method stub
 
-		System.out.println("Executing Job");
+		LOGGER.info("Job ** {} ** executed @ {}", jerytodikExecutionContext.getJobDetail().getKey().getName(),
+				jerytodikExecutionContext.getFireTime());
+
+		jeryTodikSourceService.archiveActiveResources();
+
+		LOGGER.info("Next execution of Job @ {}", jerytodikExecutionContext.getNextFireTime());
 	}
-
 }

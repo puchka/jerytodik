@@ -1,0 +1,8 @@
+package mg.jerytodik.common.entity;
+
+import javax.persistence.Entity;
+
+@Entity
+public class JeriTodikSource {
+
+}
