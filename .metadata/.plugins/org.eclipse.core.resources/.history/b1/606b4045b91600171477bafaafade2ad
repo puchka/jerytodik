@@ -1,0 +1,8 @@
+
+# proprietes ho an'i Hibernate
+
+# ny dialect ampiasaina amin'ilay fifandraisana amin'ilay BD ampesaina 
+hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+
+# aseo ve ny requete SQL voamboatra ?
+hibernate.show_sql=true

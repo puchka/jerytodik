@@ -27,6 +27,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
+import org.springframework.context.annotation.PropertySources;
 import org.springframework.core.env.Environment;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.scheduling.quartz.JobDetailFactoryBean;
@@ -41,7 +42,12 @@ import mg.jerytodik.scheduler.jobs.JerytodikResourcesArchiverJob;
  */
 @ComponentScan(basePackages = "mg.jerytodik")
 @Configuration
-@PropertySource("classpath:/mg/jerytodik/config/jerytodik-scheduler.properties")
+@PropertySources({ @PropertySource("classpath:/mg/jerytodik/config/jerytodik-scheduler.properties"),
+		/*
+		 * Definir la variable d'environnement jerytodik_home pour ecraser les
+		 * proprietes par defaut
+		 */
+		@PropertySource(value = "file:${jerytodik_home}/config/jerytodik-scheduler.properties", ignoreResourceNotFound = true) })
 public class JeryTodikSchedulerConfig {
 
 	@Autowired

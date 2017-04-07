@@ -1,0 +1,5 @@
+package mg.jerytodik.common.entity;
+
+public abstract class JeriTodikMutableData {
+
+}
