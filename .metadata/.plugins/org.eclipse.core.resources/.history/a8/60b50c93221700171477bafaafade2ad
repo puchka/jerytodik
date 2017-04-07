@@ -1,6 +1,0 @@
-
-# nombre de jobs pouvant tourner en parallele 
-org.quartz.threadPool.threadCount=5
-
-# source des données de configuration 
-org.quartz.plugin.jobInitializer.class=org.quartz.plugins.xml.XMLSchedulingDataProcessorPlugin
