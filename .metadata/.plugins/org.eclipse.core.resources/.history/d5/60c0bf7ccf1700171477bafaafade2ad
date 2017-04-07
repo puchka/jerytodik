@@ -1,0 +1,121 @@
+/*
+ * Licensed to JeryTodik under one or more contributor
+ * license agreements. See the NOTICE file distributed with
+ * this work for additional information regarding copyright
+ * ownership. JeryTodik licenses this file to you under
+ * the Apache License, Version 2.0 (the "License"); you may
+ * not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+package mg.jerytodik.business.service.impl;
+
+import java.io.IOException;
+
+import org.apache.commons.lang3.StringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import mg.jerytodik.business.dao.JeryTodikSourceRepository;
+import mg.jerytodik.business.service.JeryTodikSourceService;
+import mg.jerytodik.common.entity.JeryTodikSource;
+import mg.jerytodik.common.exceptions.JerytodikException;
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
+import okhttp3.Response;
+
+/**
+ * @author nabil andriantomanga
+ */
+@Service
+public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
+
+	private static final String			ALPHANUMERIC_PATTERN	= "[^A-Za-z0-9]";
+
+	private static final String			WORDS_SEPARATOR			= "-";
+
+	@Autowired
+	private JeryTodikSourceRepository	jeryTodikSourceRepository;
+
+	/**
+	 * {@inheritDoc}
+	 */
+	@Override
+	public void archiveActiveResources() throws JerytodikException {
+
+		for (final JeryTodikSource jeryTodikSource : jeryTodikSourceRepository.findAllActivatedJeriTodikSource()) {
+
+			archiveResource(jeryTodikSource);
+		}
+	}
+
+	/**
+	 * {@inheritDoc}
+	 */
+	@Override
+	public void archiveResource(final JeryTodikSource jerytodikSource) throws JerytodikException {
+
+		validateSource(jerytodikSource);
+
+		try {
+			final String principalResourceContent = getPrincipalResourceContent(jerytodikSource);
+
+			final String rootResourceFolderName = createRootResourceFolderName(jerytodikSource.getUrl());
+
+		} catch (IOException e) {
+			throw new JerytodikException(e.getMessage());
+		}
+
+	}
+
+	/**
+	 * @param url
+	 * @return
+	 */
+	private String createRootResourceFolderName(final String possibleMalformedName) {
+
+		possibleMalformedName.replaceAll(ALPHANUMERIC_PATTERN, WORDS_SEPARATOR);
+
+		return null;
+	}
+
+	/**
+	 * @param jerytodikSource
+	 * @return
+	 * @throws IOException
+	 */
+	private String getPrincipalResourceContent(final JeryTodikSource jerytodikSource) throws IOException {
+
+		final OkHttpClient client = new OkHttpClient();
+
+		Request request = new Request.Builder().url(jerytodikSource.getUrl()).build();
+
+		Response response = client.newCall(request).execute();
+		return response.body().string();
+	}
+
+	/**
+	 * @param jerytodikSource
+	 * @throws JerytodikException
+	 */
+	private void validateSource(JeryTodikSource jerytodikSource) throws JerytodikException {
+
+		if (null == jerytodikSource) {
+			throw new JerytodikException("The resource to be archived must be specified");
+		}
+
+		if (StringUtils.isEmpty(jerytodikSource.getUrl())) {
+			throw new JerytodikException("The URI of the resource must be specified : " + jerytodikSource.getName());
+		}
+
+	}
+
+}

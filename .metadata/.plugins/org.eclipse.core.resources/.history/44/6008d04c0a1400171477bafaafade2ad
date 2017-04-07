@@ -1,0 +1,71 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>mg.jerytodik</groupId>
+	<artifactId>jerytodik-root</artifactId>
+	<version>1.0-RELEASE</version>
+	<packaging>pom</packaging>
+
+	<description>Projet JeryTodik : un projet multi-module d'archivage de ressources web et d'exploitation de celles-ci pour des fins d'analyse et encore plus ...</description>
+
+	<developers>
+		<developer>
+			<name>nabil andriantomanga</name>
+			<email>contact@andriantomanga.com</email>
+			<organization>malagasy developers community</organization>
+			<roles>
+				<role>architect</role>
+				<role>developer</role>
+				<role>java evangelist</role>
+			</roles>
+			<url>http://www.andriantomanga.com</url>
+		</developer>
+	</developers>
+
+
+	<licenses>
+		<license>
+			<name>The Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+		</license>
+	</licenses>
+
+
+	<properties>
+		<java.version>1.8</java.version>
+		<jerytodik.version>1.0-RELEASE</jerytodik.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.plugin>3.6.1</maven.compiler.plugin>
+		<spring.data.version>1.10.8.RELEASE</spring.data.version>
+		<hibernate.version>5.1.5.Final</hibernate.version>
+		<postgresql.driver.version>9.1-901.jdbc4</postgresql.driver.version>
+	</properties>
+
+	<modules>
+		<module>../jerytodik-common</module>
+		<module>../jerytodik-business</module>
+	</modules>
+
+	<repositories>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>${maven.compiler.plugin}</version>
+				<configuration>
+					<source>${java.version}</source>
+					<target>${java.version}</target>
+					<encoding>${project.build.sourceEncoding}</encoding>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

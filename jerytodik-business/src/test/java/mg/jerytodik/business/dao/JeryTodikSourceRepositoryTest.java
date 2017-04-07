@@ -23,6 +23,7 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 import java.util.Date;
 import java.util.List;
 
+import org.junit.Ignore;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -42,8 +43,12 @@ import mg.jerytodik.common.entity.JeryTodikSource;
 public class JeryTodikSourceRepositoryTest {
 
 	@Autowired
-	private JeryTodikSourceRepository jeriTodikSourceRepository;
+	private JeryTodikSourceRepository	jeriTodikSourceRepository;
 
+	@Autowired
+	private JeryTodikHistoryRepository	jeryTodikHistoryRepository;
+
+	@Ignore
 	@Test
 	public void testFindAllActivatedJeriTodikSource() {
 

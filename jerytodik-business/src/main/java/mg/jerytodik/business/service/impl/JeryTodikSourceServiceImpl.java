@@ -23,6 +23,8 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
+import java.util.Calendar;
+import java.util.Date;
 
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
@@ -31,10 +33,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
+import mg.jerytodik.business.dao.JeryTodikHistoryRepository;
 import mg.jerytodik.business.dao.JeryTodikSourceRepository;
 import mg.jerytodik.business.service.JeryTodikSourceService;
+import mg.jerytodik.common.entity.JeryTodikHistory;
 import mg.jerytodik.common.entity.JeryTodikSource;
 import mg.jerytodik.common.exceptions.JerytodikException;
+import mg.jerytodik.common.utility.HistoryUtil;
 import mg.jerytodik.common.utility.JerytodikUtil;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
@@ -54,7 +59,21 @@ public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
 	private String						archiveRootFolder;
 
 	@Autowired
+	private JeryTodikHistoryRepository	jeryTodikHistoryRepository;
+
+	@Autowired
 	private JeryTodikSourceRepository	jeryTodikSourceRepository;
+
+	private void addHistory(final String historyContent, final JeryTodikSource jerytodikSource) {
+
+		final JeryTodikHistory history = new JeryTodikHistory();
+
+		history.setContent(historyContent);
+		history.setDate(new Date());
+		history.setSource(jerytodikSource);
+
+		jeryTodikHistoryRepository.save(history);
+	}
 
 	/**
 	 * {@inheritDoc}
@@ -87,7 +106,11 @@ public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
 			LOGGER.info("Archiving resources {} from {}", jerytodikSource.getName(), jerytodikSource.getUrl());
 			writeInFile(rootResourceFolderName, principalResourceContent);
 
+			addHistory(HistoryUtil.ARCHIVE_OK, jerytodikSource);
+
 		} catch (IOException e) {
+
+			addHistory(HistoryUtil.ARCHIVE_KO, jerytodikSource);
 			throw new JerytodikException(e.getMessage());
 		}
 
@@ -99,6 +122,18 @@ public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
 				JerytodikUtil.DASHE_SEPARATOR);
 
 		return archiveRootFolder + File.separator + possibleMalformedName.trim();
+	}
+
+	private String createSubFolderName() {
+		final Date now = new Date();
+		final Calendar calendar = Calendar.getInstance();
+		calendar.setTime(now);
+
+		return new StringBuilder().append(calendar.get(Calendar.YEAR)).append(JerytodikUtil.DASHE_SEPARATOR)
+				.append(calendar.get(Calendar.MONTH)).append(JerytodikUtil.DASHE_SEPARATOR)
+				.append(calendar.get(Calendar.DAY_OF_MONTH)).append(JerytodikUtil.DASHE_SEPARATOR)
+				.append(calendar.get(Calendar.HOUR)).append(JerytodikUtil.DASHE_SEPARATOR)
+				.append(calendar.get(Calendar.MINUTE)).toString();
 	}
 
 	private String getPrincipalResourceContent(final JeryTodikSource jerytodikSource) throws IOException {
@@ -114,7 +149,7 @@ public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
 		return response.body().string();
 	}
 
-	private void validateSource(JeryTodikSource jerytodikSource) throws JerytodikException {
+	private void validateSource(final JeryTodikSource jerytodikSource) throws JerytodikException {
 
 		if (null == jerytodikSource) {
 			throw new JerytodikException("The resource to be archived must be specified");
@@ -127,8 +162,10 @@ public class JeryTodikSourceServiceImpl implements JeryTodikSourceService {
 		// TODO : completer la validation ici si necessaire ...
 	}
 
-	private void writeInFile(final String rootResourceFolderName, final String principalResourceContent)
+	private void writeInFile(String rootResourceFolderName, final String principalResourceContent)
 			throws FileNotFoundException, UnsupportedEncodingException, JerytodikException {
+
+		rootResourceFolderName += File.separator + createSubFolderName();
 
 		if (!new File(rootResourceFolderName).exists()) {
 			LOGGER.info("The directory named {} does not exist.The directory is being created", rootResourceFolderName);
